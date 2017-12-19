@@ -5166,6 +5166,9 @@ ul.actionList li.resolve-post a:hover {
 #user_badge_272 {
 	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Altru_16x16.png") !important;
 }
+#user_badge_402 {
+	background-image: url("/blackbaud/content/icons/badges/persistent/NXT_64x64.png") !important;
+}
 
 #user_badge_402 {
 	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/NXT_64x64.png") !important;
