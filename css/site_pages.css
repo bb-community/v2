@@ -9323,6 +9323,6 @@ li ul.watchList {top: 30px;}
 
 /*Begin OLX Getting Started CSS Updates AD 01.23.18*/
 .site_page_10541 .site_page_subnav .html_block_plain {
-background: #e2e3e5;	
+	background-color: #e2e3e5 !important;	
 }
 /*Begin OLX Getting Started CSS Updates AD 01.23.18*/
