@@ -5170,6 +5170,10 @@ ul.actionList li.resolve-post a:hover {
 	background-image: url("/blackbaud/content/icons/badges/persistent/NXT_64x64.png") !important;
 }
 
+#user_badge_402 {
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/NXT_64x64.png") !important;
+}
+
 .recent_topic_reply_avatar .user-info-container {
 	width: 50px;
 }
@@ -9319,3 +9323,9 @@ li ul.watchList {top: 30px;}
 }
 
 /*End LO PAG Group 26 Updates - MM 10.23.17*/
+
+/*Begin OLX Getting Started CSS Updates AD 01.23.18*/
+.site_page_10541 .site_page_subnav .html_block_plain {
+	background-color: #e2e3e5 !important;	
+}
+/*Begin OLX Getting Started CSS Updates AD 01.23.18*/
