@@ -1,4 +1,4 @@
-﻿	.site_page {
+	.site_page {
 	margin: 0;
 	padding: 0;
 	width: 100%;
@@ -897,8 +897,8 @@ div.feedburnerFeedBlock div#creditfooter {
 	font-size: 3em !important;
 	line-height: 30px !important;
 }
-.tag+size_3 {
- font-size:2.5em !imiportant;
+.tag_size_3 {
+	font-size:2.5em !important;
 	line-height: 25px !important;
 }
 #ov_link_user.selected, #ov_link_tags.selected {
@@ -1576,9 +1576,9 @@ div#statusSave input:hover {
 	border-radius: 2px 2px 0 0;
 }
 .calDay {
-	border-bottom: 3px solid #calDay !important;
-	border-left: 3px solid #calDay !important;
-	border-right: 3px solid #calDay !important;
+	border-bottom: 2px solid #4D5258 !important;
+	border-left: 2px solid #4D5258 !important;
+	border-right: 2px solid #4D5258 !important;
 	color: #4D5258 !important;
 	display: block;
 	font-size: 18px !important;
@@ -2404,7 +2404,8 @@ a#headerMyAccountLink {
 .sm-rss {
 	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/rss.png");
 }
- .sm-rss:hover background-color:#f57e20 !important;
+ .sm-rss:hover {
+    background-color:#f57e20 !important;
 }
 .rainbowBar {
 	width: 1200px;
@@ -3050,7 +3051,7 @@ ul.largeGallery li .pictureFrame .overlay {
 	background-color: #03A78E !important;
 }
 .site_page_module.groups_group_admin #groupAdminMessagingTabs li a {
- color:#color:#505b60 !important;
+	color: #FFFFF !important;
 }
 .site_page_module.groups_group_admin #groupAdminMessagingTabs li.active {
 	background-color: #ffffff !important;
@@ -3063,9 +3064,6 @@ ul.largeGallery li .pictureFrame .overlay {
 }
 .site_page_module.groups_group_admin #groupAdminMessagingTabList .active, .site_page_module.groups_group_admin #groupAdminMessagingTabs li a:hover {
 	text-decoration: none !important;
-}
-.site_page_module.groups_group_admin #groupAdminMessagingTabs li:hover {
- background-color:;
 }
 div.user-list div.user-list-item.itemMedium {
 	width: 68px;
@@ -3243,8 +3241,6 @@ div.user-list div.user-list-item.itemMedium {
 	font-family: 'Open Sans', sans-serif;
 	-webkit-font-smoothing: antialiased;
 }
-;
-}
 .pagination span, .message_list_pagination span, .paginator_container span {
 	color: #4D5258 !important;
 	background-color: #ffffff !important;
@@ -3270,13 +3266,13 @@ span.pager-left, span.pager-right, span#recent_topics_pagination_first, span#rec
 	/* background-color:#29abe2 !important;
 	color:#ffffff !important;
 	border:1px solid #29abe2 !important*/
-	background-color: #f4f4f4 !important;
-	color: #676A6C !important;
+	background-color: #7ab800 !important;
+	color: #FFFFFF !important;
 	border: 1px solid #dddddd !important;
 	font-family: 'Open Sans', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-size: 13px !important;
-	font-weight: normal !important;
+	font-weight: bold !important;
 	/* padding:4px 10px !important;
 	*/
  /* line-height:1.42857 !important;
@@ -3287,7 +3283,9 @@ span.pager-left, span.pager-right, span#recent_topics_pagination_first, span#rec
 	float: left;
 	padding: 2px 4px !important;
 }
+/* WP - 1-26-2018 - Removing Junk paginators */
 /* left pager arrow */
+/*
 .pager-left-prev.pager-item.pager-left, .pager-left-first.pager-item.pager-left {
 	color: transparent !important;
 	text-indent: 5px;
@@ -3310,7 +3308,9 @@ span.pager-left, span.pager-right, span#recent_topics_pagination_first, span#rec
 	float: left;
 	position: relative;
 }
+*/
 /* Right Pager */
+/*
 .pager-right-next.pager-item.pager-right, .pager-right-end.pager-item.pager-right {
 	color: transparent !important;
 	text-indent: 5px;
@@ -3333,13 +3333,16 @@ span.pager-left, span.pager-right, span#recent_topics_pagination_first, span#rec
 	float: left;
 	position: relative;
 }
+*/
 /* pager arrows */
+/*
 a.pager-left-prev.pager-item.pager-left:before, a.pager-left-first.pager-item.pager-left:before, a.pager-right-next.pager-item.pager-right:before, a.pager-right-end.pager-item.pager-right:before {
 	color: #676A6C !important;
 }
 span.pager-left-prev.pager-item.pager-left:before, span.pager-left-first.pager-item.pager-left:before, span.pager-right-next.pager-item.pager-right:before, span.pager-right-end.pager-item.pager-right:before {
 	color: #999 !important;
 }
+*/
 .featured_content_featured_content #paginate_content span, .featured_content_featured_content #paginate_content a {
 	border-radius: 999px !important;
 	border: 1px solid #1c84c6 !important;
@@ -6201,7 +6204,6 @@ ul#upcomingEvents.eventsItemsList {
 	opacity: 0.4;
 	filter: alpha(opacity=40);
 	/* For IE8 and earlier */
-	;
 }
 .page_10173 #field_21, .page_10164 #field_22, .page_10174 #field_31, .page_10181 #field_40, .page_2072 #field_40, .page_2070 #field_40, .page_10201 #field_113, .page_10243 #field_40 {
    visibility: hidden;
@@ -6226,6 +6228,8 @@ ul#upcomingEvents.eventsItemsList {
 .page_10232 #reviewField_all, .page_10232 .search-filter-title, .page_10231 .search-filter-title, .page_10231 #reviewField_all, .page_10243 #reviewField_all, .page_10243 .search-filter-title, .page_10214 .search-filter-title, .page_10214 #reviewField_all {
 	display: none;
 }
+/* WP - 1-26-2018 Comenting out the below CSS because
+/*
 .page_2093 .pageLinks a[href*="categories"] {
 	display: none;
 }
@@ -6234,6 +6238,7 @@ ul#upcomingEvents.eventsItemsList {
 .page_2093 .pageLinks a[href*="item"] {
 	display: #7AB800 !important;
 }
+*/
 .custom_14169663933873, .custom_14185928163793, .custom_13111907849223 {
 	width: 1200px;
 	margin: 0 auto;
@@ -8756,14 +8761,15 @@ font-size: 14px;
 {
 	height:auto;
 	overflow:hidden;
-	//SHAME:magic number to allow the accordion to animate max-height:50em;
+	/*//SHAME:magic number to allow the accordion to animate max-height:50em;*/
 	transition:max-height 1s;
-	@media screen and (min-width:48em)
+	/*WP - 1-26-2018 - Commenting out because this site is not responsive*/
+	/*@media screen and (min-width:48em)
 {
 	max-height:15em;
 	transition:max-height 0.5s
 }
-
+*/
 
 }
 
@@ -8986,7 +8992,6 @@ div.message_detail_action_area {
 }
 
 /* CM 4 Column Layout */
-
 .4colheader{
    width: 100%;
    left: 0%;
