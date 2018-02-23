@@ -2444,7 +2444,7 @@ a#headerMyAccountLink {
 .page_200 #main #user_profile_photo, .page_200 #main #change_profile_photo {
 	text-align: left !important;
 }
-.page_200 #main div#change_profile_photo {
+.page_200 #main div#change_profile_photo_wrap {
 	width: 36px;
 	height: 32px;
 	display: inline-block;
@@ -2453,7 +2453,7 @@ a#headerMyAccountLink {
 	border-radius: 0 0 2px 2px;
 	overflow: hidden;
 }
-.page_200 #main div#change_profile_photo a#change_profile_photo {
+.page_200 #main div#change_profile_photo_wrap a#change_profile_photo {
 	text-indent: -9999px !important;
 	white-space: nowrap !important;
 	width: 36px;
