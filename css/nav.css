@@ -17,12 +17,12 @@
 
 #mainnav ul
 {
-	width:740px;
+	width:852x;
 	/*margin:0 auto;
 	*/
  /*padding:0 0 0 675px;
 	*/
- margin:0 auto 0 51.3%;
+ margin:0 auto 0 41.5%;
 	padding:0;
 	direction:rtl;
 	height:55px;
@@ -47,7 +47,7 @@
 }
 
 /* Green background color for final special link */
-#mainnav li.mainnav-link-7 {
+#mainnav ul li[class^='mainnav']:last-child {
 	background-color: #7ab800;
 
 	/*Hide the "join" button from the navigation bar */
@@ -55,11 +55,11 @@
 	display: none;
 }
 
-	#mainnav li.mainnav-link-7:hover {
+	#mainnav ul li[class^='mainnav']:last-child:hover {
 		background-color: #EEEEEE;
 	}
 
-	#mainnav li.mainnav-link-7 a {
+	#mainnav ul li[class^='mainnav']:last-child a {
 		color: white;
 		text-transform: uppercase;
 	}
