@@ -9331,3 +9331,8 @@ li ul.watchList {top: 30px;}
 	background-color: #e2e3e5 !important;	
 }
 /*Begin OLX Getting Started CSS Updates AD 01.23.18*/
+
+/* WP - 3-31-2018 - Profile Field Project */
+.page_201 #checkboxes_40_highlight, .page_201 #checkboxes_41_highlight, .page_201 #checkboxes_41_error + label, .page_201 #checkboxes_40_error + label {
+    display: none;
+}
