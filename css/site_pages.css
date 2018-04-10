@@ -2557,11 +2557,11 @@ a#headerMyAccountLink {
 .page_200 .comment_reply_text .posted_by {
 	margin-right: 12px;
 }
-.page_200 #module_0-37 {
+/*.page_200 #module_0-37 {
 	margin-top: 10px;
 	float: none !important;
 	clear: both;
-}
+}*/
 .page_200 .profile_network .boxsitepage, .page_200 .profile_network .boxsitepagebody {
 	background-color: #f1f1f1;
 }
@@ -5698,9 +5698,9 @@ span.hideText {
 	clear: both;
 	overflow: hidden;
 }
-.page_200 #module_0-37 {
+/*.page_200 #module_0-37 {
 	clear: both !important;
-}
+}*/
 .site_page_subnav .html_block_plain br {
 	display: none;
 }
