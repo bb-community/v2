@@ -34,15 +34,15 @@ html[xmlns] .column_generic {
 	margin-top: 0px;
 }
 #photos_ul .upload_videos {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/icons/video_icon.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/icons/video_icon.png');
 	background-repeat: no-repeat;
 }
 #photos_ul .add_videos {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/icons/add_video.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/icons/add_video.png');
 	background-repeat: no-repeat;
 }
 #photos_ul .friends_videos {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/icons/friends_video.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/icons/friends_video.png');
 	background-repeat: no-repeat;
 }
 .site_page_my_videos #photos_ul li {
@@ -63,7 +63,7 @@ html[xmlns] .column_generic {
 	text-align: left;
 	position: relative;
 	background: #e2e3e5;
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/header-bg.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/blackbaud/header-bg.png');
 	background-size: 1200px 1px;
 	background-repeat: repeat-y;
 	background-position: center;
@@ -313,10 +313,10 @@ ul.largeGallery li {
 	width: 139px;
 }
 ul li.flag.embed {
-	background: transparent url('https://blackbaud.stage.smallworldlabs.com/content/icons/embed-icon.png') no-repeat scroll 0 0 !important;
+	background: transparent url('https://static.smallworldlabs.com/blackbaud/content/icons/embed-icon.png') no-repeat scroll 0 0 !important;
 }
 ul li.flag {
-	background: transparent url('https://blackbaud.stage.smallworldlabs.com/images/report_member.png') no-repeat scroll 0 0;
+	background: transparent url('https://static.smallworldlabs.com/blackbaud/images/report_member.png') no-repeat scroll 0 0;
 	display: inline;
 }
 .page_400 ul li.flag {
@@ -332,7 +332,7 @@ ul li.flag {
 	margin-left: 0 !important;
 }
 ul li.delete {
-	background: transparent url('https://blackbaud.stage.smallworldlabs.com/images/icons/delete.gif') no-repeat scroll 0 0;
+	background: transparent url('https://static.smallworldlabs.com/blackbaud/images/icons/delete.gif') no-repeat scroll 0 0;
 }
 .site_page_blogs .sblog, .sblog {
 	border-bottom: 1px solid #BABABA;
@@ -352,11 +352,11 @@ ul li.delete {
 	margin-left: 5px;
 }
 .sblog_actions ul li.flag {
-	background: transparent url('https://blackbaud.stage.smallworldlabs.com/images/report_member.png') no-repeat scroll 5px 0;
+	background: transparent url('https://static.smallworldlabs.com/blackbaud/images/report_member.png') no-repeat scroll 5px 0;
 	float: left;
 }
 .sblog_actions ul li.comment {
-	background: transparent url('https://blackbaud.stage.smallworldlabs.com/images/comment.png') no-repeat scroll 5px 0;
+	background: transparent url('https://static.smallworldlabs.com/blackbaud/images/comment.png') no-repeat scroll 5px 0;
 	float: left;
 }
 #member_search .fieldinput {
@@ -371,13 +371,13 @@ ul li.delete {
 	width: 230px;
 }
 ul li.edit {
-	background: transparent url('https://blackbaud.stage.smallworldlabs.com/content/icons/16x16/actions/pencil.png') no-repeat scroll left top !important;
+	background: transparent url('https://static.smallworldlabs.com/blackbaud/content/icons/16x16/actions/pencil.png') no-repeat scroll left top !important;
 	height: 16px;
 	line-height: 20px;
 	padding: 0 0 2px 20px !important;
 }
 .comment {
-	background: transparent url('https://blackbaud.stage.smallworldlabs.com/images/comment.png') no-repeat scroll -2px top;
+	background: transparent url('https://static.smallworldlabs.com/blackbaud/images/comment.png') no-repeat scroll -2px top;
 }
 .sblog_details .email_print {
 	float: right;
@@ -419,7 +419,7 @@ ul li.edit {
 	width: 62px;
 }
 .log .status_update {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/icons/user_comment.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/icons/user_comment.png');
 	background-repeat: no-repeat;
 }
 dd.lastpost {
@@ -432,7 +432,7 @@ div.post {
 	min-height: 145px !important;
 }
 .log .createuser_successful {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/icons/user_green.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/icons/user_green.png');
 	background-repeat: no-repeat;
 }
 blockquote.userQuote {
@@ -451,7 +451,7 @@ blockquote.userQuote {
 	background: none repeat scroll 0 0 #FFFFFF;
 }
 .log .multimedia_upload {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/icons/video_icon.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/icons/video_icon.png');
 	background-repeat: no-repeat;
 }
 .boxsitepagebody .fv_item {
@@ -489,31 +489,31 @@ ul.smallsquareGallery li {
 	width: 100%;
 }
 .my_messages_list_friends {
-	background: url("https://blackbaud.stage.smallworldlabs.com/content/icons/user_add.png") no-repeat scroll 0 0 transparent !important;
+	background: url("https://static.smallworldlabs.com/blackbaud/content/icons/user_add.png") no-repeat scroll 0 0 transparent !important;
 	padding: 0 0 0 23px;
 }
 .my_messages_list_messages {
-	background: url("https://blackbaud.stage.smallworldlabs.com/content/icons/email_add.png") no-repeat scroll 0 0 transparent !important;
+	background: url("https://static.smallworldlabs.com/blackbaud/content/icons/email_add.png") no-repeat scroll 0 0 transparent !important;
 	padding: 0 0 0 23px;
 }
 .my_messages_list_watchlist {
-	background: url("https://blackbaud.stage.smallworldlabs.com/content/icons/16x16/actions/subscribe-add.png") no-repeat scroll left top transparent;
+	background: url("https://static.smallworldlabs.com/blackbaud/content/icons/16x16/actions/subscribe-add.png") no-repeat scroll left top transparent;
 	padding: 0 0 0 23px;
 }
 .log .forum_new_topic {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/icons/page_white_add.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/icons/page_white_add.png');
 	background-repeat: no-repeat;
 }
 .log .forum_edit_topic {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/icons/page_white.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/icons/page_white.png');
 	background-repeat: no-repeat;
 }
 .log .forum_new_reply {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/icons/page_white_add.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/icons/page_white_add.png');
 	background-repeat: no-repeat;
 }
 .log .forum_edit_reply {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/icons/page_white_edit.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/icons/page_white_edit.png');
 	background-repeat: no-repeat;
 }
 #browse_users .user {
@@ -545,10 +545,10 @@ ul.smallsquareGallery li {
 	width: 275px;
 }
 .log .feedback_rating_multimedia, .log .feedback_rating_comment_multimedia, .log .feedback_rating_photos, .log .feedback_rating_comment_photos {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/images/star.png")!important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/images/star.png")!important;
 }
 .log .file_upload {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/icons/disk.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/icons/disk.png');
 	background-repeat: no-repeat;
 }
 #automatic_tags input[type="text"] {
@@ -1283,7 +1283,7 @@ div#statusSave input:hover {
 	border: none !important;
 }
 .custom_13449902793376 .boxsitepage .p1 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/expand.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/expand.png") !important;
 	background-position: 197px 10px;
 	background-repeat: no-repeat;
 	background-size: 24px 24px;
@@ -1659,7 +1659,7 @@ div#statusSave input:hover {
 
 .page_2 #module_1-3 .boxsitepage
 {
-	background-image:url("https://blackbaud.stage.smallworldlabs.com/content/swl/scroll-icon.png");
+	background-image:url("https://static.smallworldlabs.com/blackbaud/content/swl/scroll-icon.png");
 	background-position:285px 50%;
 	background-repeat:no-repeat;
 	background-size:20px 20px;
@@ -1708,7 +1708,7 @@ div#statusSave input:hover {
 	border: none !important;
 }
 .custom_14060538586224 .boxsitepage .p1 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/expand.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/expand.png") !important;
 	background-position: 155px 5px;
 	background-repeat: no-repeat;
 	background-size: 20px 20px;
@@ -1769,7 +1769,7 @@ div#statusSave input:hover {
 }
 .shareIn {
 	background-color: #03A78E;
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/sharein.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/sharein.png");
 	background-position: 93px 7px;
 	background-repeat: no-repeat;
 	background-size: 30px 23px;
@@ -1867,43 +1867,43 @@ div#statusSave input:hover {
 	padding: 0 !important;
 }
 li[id^="facebook_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/facebook.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/facebook.png') !important;
 	background-color: #3b5998 !important;
 }
 li[id^="twitter_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/twitter.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/twitter.png') !important;
 	background-color: #00aced !important;
 }
 li[id^="linkedin_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/linkedin.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/linkedin.png') !important;
 	background-color: #007bb6 !important;
 }
 li[id^="tumblr_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/tumblr.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/tumblr.png') !important;
 	background-color: #32506d !important;
 }
 li[id^="googleplus_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/googleplus.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/googleplus.png') !important;
 	background-color: #dd4b39 !important;
 }
 li[id^="stumbleupon_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/stumbleupon.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/stumbleupon.png') !important;
 	background-color: #2FAB58 !important;
 }
 li[id^="reddit_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/reddit.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/reddit.png') !important;
 	background-color: #FF4400 !important;
 }
 li[id^="digg_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/digg.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/digg.png') !important;
 	background-color: #1B5891 !important;
 }
 li[id^="pinterest_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/pinterest.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/pinterest.png') !important;
 	background-color: #cb2027 !important;
 }
 li[id^="delicious_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/delicious.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/delicious.png') !important;
 	background-color: #3274D1 !important;
 }
 .site_page_social_media_buttons li a:hover {
@@ -2190,7 +2190,7 @@ a#headerMyAccountLink {
 	margin-left: -50px !important;
 }
 #headerMyAccountLink {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/account.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/account.png");
 	position: fixed;
 	top: 13px;
 	margin-left: -75px !important;
@@ -2222,7 +2222,7 @@ a#headerMyAccountLink {
 	background: transparent;
 }
 #headerAdminEditPageLink {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/edit-page.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/edit-page.png");
 	position: fixed;
 	left: 50%;
 	top: 13px;
@@ -2231,7 +2231,7 @@ a#headerMyAccountLink {
 	z-index: 200;
 }
 #headerAdminLink {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/admin.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/admin.png");
 	position: fixed;
 	left: 50%;
 	top: 13px;
@@ -2280,13 +2280,13 @@ a#headerMyAccountLink {
 	display: block;
 }
 .my_messages_list_friends a {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/friends.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/friends.png") !important;
 }
 .my_messages_list_messages a {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/mail.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/mail.png") !important;
 }
 #headerAdminEditPageLink {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/edit-page.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/edit-page.png") !important;
 }
 .my_messages_list_watchlist, .headerLinkSep {
 	display: none !important;
@@ -2332,7 +2332,7 @@ a#headerMyAccountLink {
 	margin: 0 !important;
 	whitespace: no-wrap;
 	text-indent: -9999px;
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/blackbaud/search.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/blackbaud/search.png");
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
 	background-color: #ffffff !important;
@@ -2376,37 +2376,37 @@ a#headerMyAccountLink {
 	color: white;
 }
 .sm-googleplus {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/sm/googleplus.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/sm/googleplus.png");
 }
 .sm-googleplus:hover {
 	background-color: #dd4b39 !important;
 }
 .sm-facebook {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/sm/facebook.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/sm/facebook.png");
 }
 .sm-facebook:hover {
 	background-color: #3b5998 !important;
 }
 .sm-twitter {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/sm/twitter.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/sm/twitter.png");
 }
 .sm-twitter:hover {
 	background-color: #00aced !important;
 }
 .sm-youtube {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/sm/youtube.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/sm/youtube.png");
 }
 .sm-youtube:hover {
 	background-color: #cc181e !important;
 }
 .sm-linkedin {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/sm/linkedin.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/sm/linkedin.png");
 }
 .sm-linkedin:hover {
 	background-color: #007DB5 !important;
 }
 .sm-rss {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/rss.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/rss.png");
 }
  .sm-rss:hover {
     background-color:#f57e20 !important;
@@ -2414,7 +2414,7 @@ a#headerMyAccountLink {
 .rainbowBar {
 	width: 1200px;
 	height: 6px;
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/blackbaud/rainbow.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/blackbaud/rainbow.png");
 	margin: 40px 0 20px 0;
 }
 /* Profile */
@@ -2462,7 +2462,7 @@ a#headerMyAccountLink {
 	white-space: nowrap !important;
 	width: 36px;
 	height: 32px;
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/camera.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/camera.png");
 	background-repeat: no-repeat;
 	display: block;
 	top: 0;
@@ -2650,19 +2650,19 @@ a#headerMyAccountLink {
 	text-decoration: none !important;
 }
 .page_200 .user_actions li.edit_profile a {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/edit.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/edit.png") !important;
 	background-position: 5px 3px !important;
 	background-size: 14px 14px !important;
 	background-repeat: no-repeat !important;
 }
 .page_200 .user_actions li.report_member a {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/flag.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/flag.png") !important;
 	background-position: 5px 3px !important;
 	background-size: 14px 14px !important;
 	background-repeat: no-repeat !important;
 }
 .page_200 .user_actions li.invite_to_group a {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/blackbaud/group-invite.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/blackbaud/group-invite.png") !important;
 	background-position: 5px 3px !important;
 	background-size: 14px 14px !important;
 	background-repeat: no-repeat !important;
@@ -2671,7 +2671,7 @@ a#headerMyAccountLink {
 	background-color: #53A817 !important;
 }
 .page_200 .user_actions li.view_photos a {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/view-photos.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/view-photos.png");
 }
 .page_200 .user_actions li a.navbar {
 	min-height: 20px !important;
@@ -2683,14 +2683,14 @@ a#headerMyAccountLink {
 	display: none !important;
 }
 .page_200 .user_actions li.send_email a {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/mail.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/mail.png");
 }
 .page_200 .user_actions li.add_friend a, .page_200 .user_actions li.accept_friend a, .page_200 .user_actions li.pending_friend {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/add-friend.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/add-friend.png") !important;
 	background-size: 13px 13px;
 }
 .page_200 .user_actions li.are_friends a {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/remove-friend.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/remove-friend.png");
 	background-size: 12px 12px;
 	background-position: 5px 4px;
 }
@@ -2829,37 +2829,37 @@ a#headerMyAccountLink {
 	font-weight: 500;
 }
 #main .group_nav_admin {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-admin.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-admin.png") !important;
 }
 #main .group_nav_home {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-home.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-home.png") !important;
 }
 #main .group_nav_members {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-members.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-members.png") !important;
 }
 #main .group_nav_invite {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-invite.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-invite.png") !important;
 }
 #main .group_nav_forums {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-forums.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-forums.png") !important;
 }
 #main .group_nav_events {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-events.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-events.png") !important;
 }
 #main .group_nav_photos {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-photos.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-photos.png") !important;
 }
 #main .group_nav_videos {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-videos.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-videos.png") !important;
 }
 #main .group_nav_files {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-files.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-files.png") !important;
 }
 #main .group_nav_reviews {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-reviews.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-reviews.png") !important;
 }
 #main .group_nav_settings {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-settings.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-settings.png") !important;
 }
 /* Horizontal Group Navigation */
 .site_page_subnav .groups_group_navigation {
@@ -3006,20 +3006,20 @@ ul.largeGallery li .pictureFrame .overlay {
 	font-weight: 500;
 }
 .group_display_icon div.imageMediumSquare, .group_item_avatar div.imageMediumSquare {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/blackbaud/groupnoimage.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/blackbaud/groupnoimage.png") !important;
 	background-size: 62px 62px;
 	border-radius: 15px;
 	max-width: 62px;
 	background-position: 50% 50%;
 }
 .group_item_avatar div.imageMediumSquare {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/blackbaud/groupnoimageorange.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/blackbaud/groupnoimageorange.png") !important;
 }
 .add_bookmark, ul.horizontalList li.add_bookmark, div.user_actions ul li.add_bookmark {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/add_bookmark.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/add_bookmark.png");
 }
 .page_2002 .group_action_buttons li.add_bookmark {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/blackbaud/add_bookmark.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/blackbaud/add_bookmark.png");
 }
 .page_2002 .group_action_buttons li.flag {
 	padding-left: 0 !important;
@@ -3083,7 +3083,7 @@ div.user-list div.user-list-item.itemMedium {
 }
 .message_recipient_clear {
 	background: none !important;
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/delete.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/delete.png") !important;
 	background-position: 50% 50% !important;
 	background-size: 16px 16px !important;
 	background-repeat: no-repeat !important;
@@ -3438,10 +3438,10 @@ div.share_bookmarklett_article img {
 	max-width: 256px;
 }
 ul li.delete {
-	background: url("https://blackbaud.stage.smallworldlabs.com/content/icons/16x16/actions/delete.png") no-repeat scroll left top transparent !important;
+	background: url("https://static.smallworldlabs.com/blackbaud/content/icons/16x16/actions/delete.png") no-repeat scroll left top transparent !important;
 }
 .forums .dl.icon.col1 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/folder-32.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/folder-32.png") !important;
 }
 .site_page_module.recent_topics .recent_topic_replies_list {
 	margin: 15px 0 0 28px;
@@ -3497,7 +3497,7 @@ textarea#signature {
 	font-weight: 300 !important;
 }
 .moduleLoadingLarge {
-	background: url("https://blackbaud.stage.smallworldlabs.com/content/swl/loading.gif") no-repeat scroll center center transparent !important;
+	background: url("https://static.smallworldlabs.com/blackbaud/content/swl/loading.gif") no-repeat scroll center center transparent !important;
 }
 ul.reviewCategories li span.captionLine2, ul.eventCategories li span.captionLine2 {
 	font-size: 14px !important;
@@ -3506,19 +3506,19 @@ ul li.edit, ul li.flag, .add_bookmark, ul.horizontalList li.add_bookmark, div.us
 	line-height: 16px !important;
 }
 .sblog_actions ul li.flag {
-	background: url("https://blackbaud.stage.smallworldlabs.com/content/icons/16x16/actions/flag_red.png") no-repeat scroll left top transparent !important;
+	background: url("https://static.smallworldlabs.com/blackbaud/content/icons/16x16/actions/flag_red.png") no-repeat scroll left top transparent !important;
 }
 ul li.send_link {
-	background: url("https://blackbaud.stage.smallworldlabs.com/content/swl/send_email.png") no-repeat scroll 0 0 transparent !important;
+	background: url("https://static.smallworldlabs.com/blackbaud/content/swl/send_email.png") no-repeat scroll 0 0 transparent !important;
 }
 .reviews_edit_img, .events_edit_img {
-	background: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-forums.png") no-repeat scroll 0 0 transparent;
+	background: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-forums.png") no-repeat scroll 0 0 transparent;
 }
 .reviews_delete_img, .events_delete_img, ul li.flag.delete {
-	background: url("https://blackbaud.stage.smallworldlabs.com/content/swl/delete-gray.png") no-repeat scroll 0 0 transparent;
+	background: url("https://static.smallworldlabs.com/blackbaud/content/swl/delete-gray.png") no-repeat scroll 0 0 transparent;
 }
 .sblog_actions ul li.comment {
-	background: url("https://blackbaud.stage.smallworldlabs.com/content/swl/comment.png") no-repeat scroll 0 0 transparent !important;
+	background: url("https://static.smallworldlabs.com/blackbaud/content/swl/comment.png") no-repeat scroll 0 0 transparent !important;
 }
 ul.rss_icon li {
 	padding-left: 6px !important;
@@ -3543,7 +3543,7 @@ ul li.unWatch a:hover {
 .rss_button_img {
 	background: none !important;
 	background-color: #e66643 !important;
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/rss.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/rss.png") !important;
 	background-position: 1px 50% !important;
 	background-size: 20px 20px !important;
 	background-repeat: no-repeat !important;
@@ -3585,13 +3585,13 @@ ul.reviewsItemsList li a.editItem img, ul.reviewsItemsList li a.deleteItem, ul.r
 	padding-left: 24px !important;
 }
 .mycontent_nav .photos {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-photos.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-photos.png") !important;
 }
 .mycontent_nav .videos {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-videos.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-videos.png") !important;
 }
 .mycontent_nav .files {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/group-files.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/group-files.png") !important;
 }
 .groupdisc {
 /*position:absolute;
@@ -3607,7 +3607,7 @@ ul.reviewsItemsList li a.editItem img, ul.reviewsItemsList li a.deleteItem, ul.r
 }
 .search_result_avatar {
 	width: 70px;
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/search-62.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/search-62.png");
 	background-repeat: no-repeat;
 }
 .search_result_avatar .imageMediumSquare {
@@ -3810,11 +3810,11 @@ ul.reviewsItemsList li span.image img, ul.eventsItemsList li span.image img, ul#
 }
 /* END HIDE RATINGS SITE-WIDE */
 .rating_container a.rating_on {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/star-on.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/star-on.png") !important;
 	margin-right: 2px;
 }
 .rating_container a.rating_off {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/star-off.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/star-off.png") !important;
 	margin-right: 2px;
 }
 .reviewsItemsList li br {
@@ -3847,7 +3847,7 @@ div.accordion-toggle {
 	font-weight: 300;
 	text-transform: uppercase;
 	color: #505b61;
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/toggle-down.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/toggle-down.png") !important;
 	background-position: 99.5% 50% !important;
 	background-size: 20px 20px;
 }
@@ -3857,7 +3857,7 @@ div.accordion-toggle-active {
 	background-color: #03a78e !important;
 	color: #ffffff;
 	margin-bottom: 0 !important;
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/toggle-up.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/toggle-up.png") !important;
 	background-position: 99.5% 50% !important;
 	background-size: 20px 20px;
 }
@@ -3933,20 +3933,20 @@ ul.actionList li a:hover, ul.actionList li.flag a:hover {
 	color: #333 !important;
 }
 .reviews_view_img, .events_view_img {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/right-dbl-arrow.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/right-dbl-arrow.png") !important;
 	margin-left: 5px;
 	float: right;
 	background-position: 0 3px !important;
 	background-size: 10px 10px !important;
 }
 .reviews_add_img, .events_add_img {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/add.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/add.png") !important;
 }
 ul#moreEvents {
 	margin: 0 !important;
 }
 .comment {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/comment.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/comment.png") !important;
 	padding-left: 20px !important;
 }
 .p2 {
@@ -4047,7 +4047,7 @@ img.user_group {
 	margin: 0 0 0 126px;
 	padding: 0;
 	line-height: 14px;
-	/*background-image:url("https://blackbaud.stage.smallworldlabs.com/content/blackbaud/greenbar-bg.png");
+	/*background-image:url("https://static.smallworldlabs.com/blackbaud/content/blackbaud/greenbar-bg.png");
 	background-repeat:repeat-x;
 	*/
 	font-size: 12px;
@@ -4064,7 +4064,7 @@ img.user_group {
 	width: 2px;
 	height: 13px;
 	margin: 7px 0 0 0;
-	/*background-image:url("https://blackbaud.stage.smallworldlabs.com/content/blackbaud/greenline.png");
+	/*background-image:url("https://static.smallworldlabs.com/blackbaud/content/blackbaud/greenline.png");
 	*/
 	display: inline-block;
 }
@@ -4076,13 +4076,13 @@ img.user_group {
 	position: relative;
 }
 .greenStart {
-	/*background-image:url("https://blackbaud.stage.smallworldlabs.com/content/blackbaud/greenstart.png");
+	/*background-image:url("https://static.smallworldlabs.com/blackbaud/content/blackbaud/greenstart.png");
 	*/
 	top: -7px;
 	margin-right: 65px;
 }
 .greenEnd {
-	/*background-image:url("https://blackbaud.stage.smallworldlabs.com/content/blackbaud/greenend.png");
+	/*background-image:url("https://static.smallworldlabs.com/blackbaud/content/blackbaud/greenend.png");
 	*/
 	float: right;
 }
@@ -4136,7 +4136,7 @@ ul.forumRow .col2, ul.forumRow .col3, ul.forumRow .col4 {
 }
 ul.forums dl.icon {
 	background-color: none !important;
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/blackbaud/forum-unread.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/blackbaud/forum-unread.png") !important;
 	min-height: 24px !important;
 }
 ul.forumRow .lastpost {
@@ -4685,7 +4685,7 @@ div.settings_notifications_notification {
 	margin: 1px 0 0 10px;
 	color: white;
 	width: 150px;
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/expand.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/expand.png");
 	background-repeat: no-repeat;
 	background-position: 95%;
 	background-size: 14%;
@@ -5129,10 +5129,10 @@ ul.actionList li.resolve-post a:hover {
 	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/bbcon-speaker.png") !important;
 }
 #user_badge_104 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/BBChampions.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BBChampions.png") !important;
 }
 #user_badge_54 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/BBStaff.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/BBStaff.png") !important;
 }
 #user_badge_105 {
 	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Re-Etap.png") !important;
@@ -5144,22 +5144,22 @@ ul.actionList li.resolve-post a:hover {
 	background-image: url("http://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/PartnerNetwork.png") !important;
 }
 #user_badge_211 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Re-Etap.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Re-Etap.png") !important;
 }
 #user_badge_208 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/FE_.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/FE_.png") !important;
 }
 #user_badge_210 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Luminate_2.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Luminate_2.png") !important;
 }
 #user_badge_212 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/EE_2.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/EE_2.png") !important;
 }
 #user_badge_209 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/RP.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/RP.png") !important;
 }
 #user_badge_153 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Advisor-badge-medal.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Advisor-badge-medal.png") !important;
 }
 
 #user_badge_270 {
@@ -5167,11 +5167,11 @@ ul.actionList li.resolve-post a:hover {
 }
 
 #user_badge_271 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/FE_Pro_16x16.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/FE_Pro_16x16.png") !important;
 }
 
 #user_badge_272 {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/icons/badges/persistent/Altru_16x16.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/Altru_16x16.png") !important;
 }
 
 #user_badge_402 {
@@ -5618,7 +5618,7 @@ div.product-nav {
 	display: block !important;
 }
 .page_10143 .custom_14248192816723 .headerBanner {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/images/banners/go-community-banner_2%20copy.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/images/banners/go-community-banner_2%20copy.png');
 }
 /* Welcome Walkthrough product select buttons */
 .page_10112 #module_0-0 .boxsitepagebody, .page_10112 #module_1-0 .boxsitepagebody {
@@ -6029,35 +6029,35 @@ ul#upcomingEvents.eventsItemsList {
 	margin-right: 0;
 }
 .page_10101 li[id^="facebook_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/large/facebook.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/large/facebook.png') !important;
 }
 .page_10101 li[id^="twitter_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/large/twitter.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/large/twitter.png') !important;
 }
 .page_10101 li[id^="linkedin_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/large/linkedin.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/large/linkedin.png') !important;
 }
 .page_10101 li[id^="tumblr_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/large/tumblr.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/large/tumblr.png') !important;
 }
 .page_10101 li[id^="googleplus_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/large/googleplus.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/large/googleplus.png') !important;
 	background-color: #dd4b39 !important;
 }
 .page_10101 li[id^="stumbleupon_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/large/stumbleupon.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/large/stumbleupon.png') !important;
 }
 .page_10101 li[id^="reddit_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/large/reddit.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/large/reddit.png') !important;
 }
 .page_10101 li[id^="digg_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/large/digg.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/large/digg.png') !important;
 }
 .page_10101 li[id^="pinterest_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/large/pinterest.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/large/pinterest.png') !important;
 }
 .page_10101 li[id^="delicious_"] {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/swl/sm/large/delicious.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/swl/sm/large/delicious.png') !important;
 }
 /* MY ACCOUNT TAB CHANGES */
 #section_header_profile_contact, #section_profile_contact, #section_email_address, #settings_section, #settings_section_header, #section_change_password, #section_header_email_address, #section_header_change_password, .page_203 .block_2, .page_203 .block_3 {
@@ -6168,7 +6168,7 @@ ul#upcomingEvents.eventsItemsList {
 	left: -20px;
 }
 .page_1002 li.addTopic a, .page_1001 li.addTopic a {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/add.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/add.png") !important;
 	background-position: 144px 3px !important;
 	background-repeat: no-repeat !important;
 	background-size: 24px 24px;
@@ -6528,7 +6528,7 @@ ul#featured_user_list li span.image {
 	display: none;
 }
 .ui-dialog .ui-dialog-titlebar-close span {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/icons/16x16/close_16x16.png') !important;
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/icons/16x16/close_16x16.png') !important;
 	position: relative;
 }
 .ui-dialog .ui-dialog-titlebar-close span:before {
@@ -6755,7 +6755,7 @@ input[type="button"], input[type="button"]:hover, input[type="submit"], input[ty
 	width: 725px !important;
 }
 div.like-link a.like-link {
-	background-image: url("https://community.blackbaud.com/content/icons/16x16/thumb_up.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/16x16/thumb_up.png");
 	background-position: 0 2px;
 }
 .no-associated-files-message #attach_icon {
@@ -6984,7 +6984,7 @@ ul.folder-list li.folder {
 	border: none !important;
 }
 .sendMessage a {
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/swl/send_email.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/swl/send_email.png") !important;
 }
 .userRemove a {
     background: url("https://static.smallworldlabs.com/blackbaud/content/swl/delete-gray.png") no-repeat !important;
@@ -7798,7 +7798,7 @@ div.greenEnd
 	text-align: center;
 }
 .home_cta .cta_icon {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/images/home/bg_circle.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/images/home/bg_circle.png');
 	background-repeat: no-repeat;
 	height: 146px;
 	width: 146px;
@@ -8118,20 +8118,20 @@ div.imageMediumSquare a {
 	width: 30px !important;
 }
 .page_302 .sblog_actions li.send_link a {
-	background-image: url("https://static.stage.smallworldlabs.com/blackbaud/content/swl/sendlink-large.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/blackbaud/content/swl/sendlink-large.png") !important;
 }
 .page_302 .sblog_actions li.comment a {
-	background-image: url("https://static.stage.smallworldlabs.com/blackbaud/content/swl/comment-large.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/blackbaud/content/swl/comment-large.png") !important;
 }
 .page_302 .sblog_actions li {
 	padding: 0 !important;
 	background: none !important;
 }
 .page_302 .sblog_actions li.blog_like_list_item a {
-	background-image: url("https://static.stage.smallworldlabs.com/blackbaud/content/swl/like-large.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/blackbaud/content/swl/like-large.png") !important;
 }
 .page_302 .sblog_actions li.blog_like_list_item a.unlike-link {
-	background-image: url("https://static.stage.smallworldlabs.com/blackbaud/content/swl/unlike-large.png") !important;
+	background-image: url("https://static.smallworldlabs.com/blackbaud/blackbaud/content/swl/unlike-large.png") !important;
 	background-color: #7ab800 !important;
 	background-position: 50% 70% !important;
 }
@@ -8152,7 +8152,7 @@ div.imageMediumSquare a {
 /* My Community Header */
 .page_2 .site_page_subnav, .page_200 .site_page_subnav {
 	background-color: #e2e3e5;
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/header-bg.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/blackbaud/header-bg.png');
 	background-repeat: repeat-x;
 	background-size: 1px 120px;
 }
@@ -8167,7 +8167,7 @@ div.imageMediumSquare a {
 .page_2 .featured_content_featured_content {
 	/* ADD BACKGROUND IMAGE HERE */
 	background: rgba(255,255,255,.7);
-	background-image: url("https://blackbaud.stage.smallworldlabs.com/content/2016/featured-content.png");
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/2016/featured-content.png");
 	background-size: 100% auto;
 }
 .page_2 .featured_content_featured_content .boxsitepage {
@@ -8303,7 +8303,7 @@ ul.user_stats {
 	text-align: center;
 	background-repeat: no-repeat;
 	background-position: bottom center;
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/points-bottom.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/blackbaud/points-bottom.png');
 }
 .total_points:before, .total_points:after {
 	height: 64px;
@@ -8315,11 +8315,11 @@ ul.user_stats {
 }
 .total_points:before {
 	margin: -26px 0 0 -31px;
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/points-left.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/blackbaud/points-left.png');
 }
 .total_points:after {
 	margin: -46px 0 0 106px;
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/points-right.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/blackbaud/points-right.png');
 }
 /*.user_stats li.user_stats_item.label_block {
 	margin-left: 180px;
@@ -8415,73 +8415,73 @@ ul.user_stats {
 /* Product Logos */
 
 .page_10380 #module_0-0 a, .page_10380 #module_0-1 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/altru.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/altru.png)
 }
 .page_10380 #module_1-0 a, .page_10380 #module_1-1 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/blackbaud-crm.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/blackbaud-crm.png)
 }
 .page_10380 #module_0-2 a, .page_10380 #module_0-3 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/blackbaud-merchant-services.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/blackbaud-merchant-services.png)
 }
 .page_10380 #module_1-2 a, .page_10380 #module_1-3 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/education-edge.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/education-edge.png)
 }
 .page_10380 #module_0-4 a, .page_10380 #module_0-5 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/etapestry.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/etapestry.png)
 }
 .page_10380 #module_1-4 a, .page_10380 #module_1-5 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/everydayhero.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/everydayhero.png)
 }
 .page_10380 #module_0-6 a, .page_10380 #module_0-7 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/financial-edge.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/financial-edge.png)
 }
 .page_10380 #module_1-6 a, .page_10380 #module_1-7 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/financial-edge-nxt.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/financial-edge-nxt.png)
 }
 .page_10380 #module_0-8 a, .page_10380 #module_0-9 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/k12-on-products.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/k12-on-products.png)
 }
 .page_10380 #module_1-8 a, .page_10380 #module_1-9 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/LuminateAdvocacy-01.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/LuminateAdvocacy-01.png)
 }
 .page_10380 #module_0-10 a, .page_10380 #module_0-11 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/luminate-online.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/luminate-online.png)
 }
 .page_10380 #module_1-10 a, .page_10380 #module_1-11 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/luminate-crm.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/luminate-crm.png)
 }
 .page_10380 #module_0-12 a, .page_10380 #module_0-13 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/microedge.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/microedge.png)
 }
 .page_10380 #module_1-12 a, .page_10380 #module_1-13 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/blackbaud-netcommunity.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/blackbaud-netcommunity.png)
 }
 .page_10380 #module_0-14 a, .page_10380 #module_0-15 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/blackbaud-online-express.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/blackbaud-online-express.png)
 }
 .page_10380 #module_1-14 a, .page_10380 #module_1-15 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/raisers-edge-nxt.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/raisers-edge-nxt.png)
 }
 .page_10380 #module_0-16 a, .page_10380 #module_0-17 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/raisers-edge.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/raisers-edge.png)
 }
 .page_10380 #module_1-16 a, .page_10380 #module_1-17 a {
 	background-image: url(https://static.smallworldlabs.com/blackbaud/content/blackbaud/products/RELO-logo-gray.png)
 }
 .page_10380 #module_0-18 a, .page_10380 #module_0-19 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/smart-tuition.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/smart-tuition.png)
 }
 .page_10380 #module_1-18 a, .page_10380 #module_1-19 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/SKY_API_Dark.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/SKY_API_Dark.png)
 }
 .page_10380 #module_0-20 a, .page_10380 #module_0-21 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/target-analytics.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/target-analytics.png)
 }
 .page_10380 #module_1-20 a, .page_10380 #module_1-21 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/BlackbaudSphere.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/BlackbaudSphere.png)
 }
 .page_10380 #module_1-22 a, .page_10380 #module_1-23 a {
-	background-image: url(https://static.stage.smallworldlabs.com/blackbaud/content/blackbaud/products/TeamRaiser.Blue_FINAL%20-%20Copy.png)
+	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/TeamRaiser.Blue_FINAL%20-%20Copy.png)
 }
 /* Subscription Pages */
 .watch-table > tbody > tr:not(.watch\=section-subcategory) > td {
@@ -8841,7 +8841,7 @@ display: none;
 	padding-bottom: 0;
 }
 .custom_14624705363682 .boxsitepagebody .br {
-	background-image: url('https://blackbaud.stage.smallworldlabs.com/content/blackbaud/product-bg.png');
+	background-image: url('https://static.smallworldlabs.com/blackbaud/content/blackbaud/product-bg.png');
 }
 .custom_14624705363682 a {
 	padding: 5px;
