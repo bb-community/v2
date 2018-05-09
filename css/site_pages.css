@@ -9342,7 +9342,7 @@ li ul.watchList {top: 30px;}
     display: none;
 }
 /*WP - 5-9-2018 - Profile Add Points */
-.page_200 #user_stats_points
+.page_200 #user_stats_points, .page_200 .user_stats_item.points_block
   {
     display:none;
   }
