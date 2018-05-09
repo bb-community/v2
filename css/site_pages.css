@@ -9341,3 +9341,8 @@ li ul.watchList {top: 30px;}
 .page_201 #checkboxes_40_highlight, .page_201 #checkboxes_41_highlight, .page_201 #checkboxes_41_error + label, .page_201 #checkboxes_40_error + label {
     display: none;
 }
+/*WP - 5-9-2018 - Profile Add Points */
+.page_200 #user_stats_points
+  {
+    display:none;
+  }
