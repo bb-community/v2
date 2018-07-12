@@ -5591,7 +5591,7 @@ div.product-nav {
 .page_10215 .site_page_column_0 #nav_search input, .page_10224 .site_page_column_0 #nav_search input {
 	width: 725px !important;
 }
-.page_703 .input_text:nth-child(10) > div:nth-child(5), .page_705 .form-file-title, .page_705 .form-file-description, .page_705 .reviews_item_details .row1, .page_703 .input_text:nth-child(10) #file_5_highlight label, .page_703 .pageLinks, .page_705 .column1 {
+.page_703 .input_text:nth-child(10) > div:nth-child(5), .page_705 .reviews_item_details .row1, .page_703 .input_text:nth-child(10) #file_5_highlight label, .page_703 .pageLinks, .page_705 .column1 {
 	display: none !important;
 }
 .page_705 .column2 {
