@@ -7357,6 +7357,7 @@ ul.event-download-calendar-items {
 }
 .page_200 .ui-dialog {
 	width: auto !important;
+	height: auto !important;
 }
 .siteSignature {
 	display: none !important;
