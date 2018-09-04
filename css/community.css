@@ -477,12 +477,12 @@ li.addComment a {
 }
 /*Style the discussions buttons the same*/
 .topic-top-watch a#topicWatch::before,
-.topic-top-watch li.add_bookmark::before,
-/*ul.topic-list-engagement-actions li.quote a::before
+.topic-top-watch li.add_bookmark::before
+/*ul.topic-list-engagement-actions li.quote a::before*/
 {
     font-family: FontAwesome;
     margin-right: 5px;
-}*/
+}
 .topic-top-watch a#topicWatch::before {
     content: '\f0e0';
 }
