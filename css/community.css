@@ -522,7 +522,7 @@ li.addComment a {
   background-color: #267292;
   text-decoration: none;
 }
-ul.topic-list-engagement-actions li.quote
+div.topic-list-topic-body ul.topic-list-engagement-actions li.quote
 {	
 	position:relative;
 	top:-5px;
