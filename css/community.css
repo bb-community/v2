@@ -401,7 +401,7 @@ div.forumContainer div.postBody.topic-list-topic-body ul.topic-list-engagement-a
 }
 /* Hide the generic Reply button */
 ul.horizontalList.topic-reply-button-container li.topic-reply-button {
-  display: none;
+  /*display: none;*/
 }
 /*Move the Answered/Unanswered flag up*/
 li.forum-topic-status.forum-topic-status-level-2, li.forum-topic-status.forum-topic-status-level-1 {
@@ -410,10 +410,10 @@ li.forum-topic-status.forum-topic-status-level-2, li.forum-topic-status.forum-to
 ul.horizontalList.topic-list-engagement-actions li.forum_topic_like_list_item {
     width: 80px;
 }
-.forum-topic-post ul.horizontalList.topic-list-engagement-actions li.quote {
+/*.forum-topic-post ul.horizontalList.topic-list-engagement-actions li.quote {
     position: absolute;
     bottom: -46px;
-}
+}*/
 /*Answered/Unanswered*/
 ul li.forum-topic-status {
     background-color: #A09E9E;
@@ -460,11 +460,11 @@ ul.horizontalList.topic-list-engagement-actions {
     position: absolute;
     bottom: -30px;
 }
-.postBody.topic-list-topic-body li.quote {
+/*.postBody.topic-list-topic-body li.quote {
     padding: 0;
     right: 0;
     margin: 0 -9px 0 0;
-}
+}*/
 li.addComment a {
   font-weight: bold;
 }
@@ -478,24 +478,24 @@ li.addComment a {
 /*Style the discussions buttons the same*/
 .topic-top-watch a#topicWatch::before,
 .topic-top-watch li.add_bookmark::before,
-ul.topic-list-engagement-actions li.quote a::before
+/*ul.topic-list-engagement-actions li.quote a::before
 {
     font-family: FontAwesome;
     margin-right: 5px;
-}
+}*/
 .topic-top-watch a#topicWatch::before {
     content: '\f0e0';
 }
 .topic-top-watch li.add_bookmark::before {
     content: '\f02e';
 }
-ul.topic-list-engagement-actions li.quote a::before {
+/*ul.topic-list-engagement-actions li.quote a::before {
     content: '\f122';
-}
+}*/
 
 .topic-top-watch a#topicWatch,
 .topic-top-watch li.add_bookmark,
-ul.topic-list-engagement-actions li.quote a
+.page-cat-forums li.addComment.topic-reply-button a
 {
   background-color: #C8C8C8;
   color: #676a6c;
@@ -510,35 +510,34 @@ ul.topic-list-engagement-actions li.quote a
   width: auto;
   margin-right: 8px;
 }
-.topic-top-watch a#topicWatch:hover,
-ul.topic-list-engagement-actions li.quote a:hover {
+.topic-top-watch a#topicWatch:hover {
   background-color: #BBBBBB;
   text-decoration: none;
 }
 /* Reply / Quote button */
-ul.topic-list-engagement-actions li.quote a {
+.page-cat-forums li.addComment.topic-reply-button.pag  a  {
   background-color: #29ABE2;
   color: #FFF;
 }
-ul.topic-list-engagement-actions li.quote a:hover {
+.page-cat-forums li.addComment.topic-reply-button.pag  a:hover {
   background-color: #267292;
   text-decoration: none;
 }
 
-ul li.quote {
+/*ul li.quote {
   background: transparent;
 }
-
+*/
 /* Report / Edit / Delete buttons */
 
 /* Topic bottom actions */
 
-.topic-bottom-actions .horizontalList.topic-bottom-watch li.watch {
+/*.topic-bottom-actions .horizontalList.topic-bottom-watch li.watch {
     display: none;
 }
 a#topicWatch_2 {
     display: none;
-}
+}*/
 /*Get rid of dotted line on topic post*/
 .forum-topic-post .row1 {
     border: none;
