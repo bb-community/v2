@@ -515,11 +515,11 @@ li.addComment a {
   text-decoration: none;
 }
 /* Reply / Quote button */
-.page-cat-forums li.addComment.topic-reply-button.pag  a  {
+.page-cat-forums li.addComment.topic-reply-button a  {
   background-color: #29ABE2;
   color: #FFF;
 }
-.page-cat-forums li.addComment.topic-reply-button.pag  a:hover {
+.page-cat-forums li.addComment.topic-reply-button a:hover {
   background-color: #267292;
   text-decoration: none;
 }
