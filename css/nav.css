@@ -24,7 +24,7 @@
 	*/
  margin:0 auto 0 43.5%;
 	padding:0;
-	direction:rtl;
+	/*direction:rtl;*/
 	height:55px;
 	line-height:40px;
 	font-weight:bold;
@@ -232,4 +232,12 @@ ul#dropdownmenu
 {
 	height:auto !important;
 	padding-bottom:10px !important
+}
+
+#mainnav .mainnav-link-1 ul#dropdownmenu
+{
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    width:400px;
 }
