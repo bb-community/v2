@@ -346,7 +346,8 @@ ul li.delete {
 	font-weight: bold !important;
 }
 .sblog_actions {
-	margin: 0 0 0 0 !important;
+	/*margin: 0 0 0 0 !important;*/
+	margin-top: -9px;
 }
 .sblog_actions a {
 	margin-left: 5px;
