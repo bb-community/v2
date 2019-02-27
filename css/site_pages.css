@@ -9176,7 +9176,7 @@ padding: 0 10px !important;
 }
 
 div.photoGrid {
-	width: 75%;
+	width: 100%;
 	border: none;
 	margin:0;
 }
@@ -9184,6 +9184,10 @@ div.photoGrid {
 div.photoGrid img.photo_0 {
     padding-top: 0px;
     width: 100%;
+}
+
+div.photoGrid img {
+    width:100%;
 }
 
 .page-urlp-group_id_7 li#field_408 {
