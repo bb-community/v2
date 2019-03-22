@@ -9334,3 +9334,8 @@ li ul.watchList {top: 30px;}
   {
     display:none;
   }
+/* WP - 3-22-2019 - Download Button */
+.action_link
+{
+	height:	auto
+}
