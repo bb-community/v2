@@ -5090,7 +5090,7 @@ ul.actionList li.resolve-post a:hover {
 	text-decoration: none;
 	background-color: #505b61;
 }
-#user_badge_54, #user_badge_104, #user_badge_105, #user_badge_106, #user_badge_108, #user_badge_153, #user_badge_208, #user_badge_209, #user_badge_210, #user_badge_211, #user_badge_212, #user_badge_227, #user_badge_229, #user_badge_261, #user_badge_262, #user_badge_270, #user_badge_271, #user_badge_272, #user_badge_310, #user_badge_311, #user_badge_402 {
+#user_badge_54, #user_badge_104, #user_badge_105, #user_badge_106, #user_badge_108, #user_badge_153, #user_badge_208, #user_badge_209, #user_badge_210, #user_badge_211, #user_badge_212, #user_badge_227, #user_badge_229, #user_badge_261, #user_badge_262, #user_badge_270, #user_badge_271, #user_badge_272, #user_badge_310, #user_badge_311, #user_badge_402, #user_badge_520, #user_badge_521 {
 	background-repeat: no-repeat;
 	height: 16px;
 	width: 16px;
@@ -5159,6 +5159,14 @@ ul.actionList li.resolve-post a:hover {
 
 #user_badge_402 {
 	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/NXT_64x64.png") !important;
+}
+
+#user_badge_520 {
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/New-Certification-Badge-18X18.png") !important;
+}
+
+#user_badge_521 {
+	background-image: url("https://static.smallworldlabs.com/blackbaud/content/icons/badges/persistent/New-Pro-Certification-Badge-18-X-18.png") !important;
 }
 
 .recent_topic_reply_avatar .user-info-container {
