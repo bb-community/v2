@@ -241,3 +241,8 @@ ul#dropdownmenu
     column-count: 2;
     width: 665px;
 }
+
+#mainnav ul #dropdownmenu li a
+{
+	height:auto;	
+}
