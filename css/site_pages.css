@@ -6328,7 +6328,7 @@ ul#upcomingEvents.eventsItemsList {
 	font-style: italic;
 }
 /* Add New Topic Custom Button to Forum Category Pages */
-.page_1001 .form_button {
+.page_1001 .site_page_column_1 .form_button {
 	position: absolute !important;
 	right: 12px;
 }
@@ -7475,9 +7475,6 @@ span.recent_topic_description.reply {
 .user-badges-container.user-data-container {
 	margin-top: 5px;float: left;width: 80%;
 }
-.page_1001 .form_button {
-	margin-top: 7px;
-}
 
 /* -- View Topic -- */
  [data-module-name="forums_breadcrumbs"] {
@@ -7616,9 +7613,7 @@ ul.horizontalList {
 	margin: 2px 10px 0 0;
 	box-shadow: 0 0 1px #e6e043;
 }
-.page_1001 .form_button {
-	margin-top: 5px !important;
-}
+
 /* Like button fixes */
 .forum-topic-post .forum_topic_like_list_item:hover {
 	background-color: #DCDCDC !important;
