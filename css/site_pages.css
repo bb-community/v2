@@ -6991,12 +6991,31 @@ div.boxsitepage, .site_page_module .boxsitepage {
 .sblog_text .site_page_description a[href^="blogs"]:before {
 	content: "Read ";
 }
-.sblog_body li {
-	list-style-image: initial;
-	list-style-type: disc;
-	margin-left: 20px;
-	padding-left: 0px;
+
+.site_page_blog_post_with_photos .sblog_details ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
 }
+
+.site_page_blog_post_with_photos .sblog_details ul li {
+    padding:0;	
+}
+
+.site_page_blog_post_with_photos .sblog_details ol {
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
 .etap-cta {
 	display: block;
 	background-image: url('http://static.smallworldlabs.com/blackbaud/content/images/dancing64.png');
