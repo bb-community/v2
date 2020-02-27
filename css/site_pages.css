@@ -8435,83 +8435,49 @@ ul.user_stats {
 .page_10380 #module_1-22 a, .page_10380 #module_1-23 a {
 	background-image: url(https://static.smallworldlabs.com/blackbaud/blackbaud/content/blackbaud/products/TeamRaiser.Blue_FINAL%20-%20Copy.png)
 }
+
 /* Subscription Pages */
-.watch-table > tbody > tr:not(.watch\=section-subcategory) > td {
-	position: relative;
-	padding-left: 25px;
-	border-bottom: 5px solid white
+.watch-table .watch-subcategory {
+	padding-left: 30px;
+	
 }
 .watch-table tr.watch-expanded > .watch-category:before {
 	font-family: FontAwesome;
-	top: 5px;
-	left: 5px;
 	content: "\f146";
 	font-size: 16px;
 	color: black;
-	position: absolute
+	margin: 0 6px;
 }
 .watch-table tr.watch-collapsed > .watch-category:before {
 	font-family: FontAwesome;
-	top: 5px;
-	left: 5px;
 	content: "\f0fe";
 	font-size: 16px;
 	color: black;
-	position: absolute
+	margin: 0 6px;
 }
 .watch-table {
-	padding: 20px
+	padding: 1em 0;
 }
-.watch-table tr.watch-expanded, .watch-table tr.watch-collapsed, tr#subscription_forums_category_390, tr#subscription_forums_category_427, tr#subscription_forums_category_424,tr#subscription_forums_category_155, tr#subscription_forums_category_464, tr#subscription_forums_category_356, tr#subscription_forums_category_1538, tr#subscription_forums_category_141, tr#subscription_forums_category_188 {
-	background-color: #C8C8C8
-}
-.watch-header a {
-	pointer-events: none;
-	color: black !important
-}
-.page_10025 #t1 {
-	float: left;
-	vertical-align: top;
-	margin: 10px 0
-}
-.page_10025 .helpsearch {
-	margin: 20px 0
-}
-/* Subscription Pages */
-.watch-table > tbody > tr:not(.watch\=section-subcategory) > td {
-	position: relative;
-	padding-left: 25px;
-	border-bottom: 5px solid white
-}
-.watch-table tr.watch-expanded > .watch-category:before {
-	font-family: FontAwesome;
-	top: 5px;
-	left: 5px;
-	content: "\f146";
-	font-size: 16px;
-	color: black;
-	position: absolute
-}
-.watch-table tr.watch-collapsed > .watch-category:before {
-	font-family: FontAwesome;
-	top: 5px;
-	left: 5px;
-	content: "\f0fe";
-	font-size: 16px;
-	color: black;
-	position: absolute
-}
-.watch-table {
-	padding: 20px
-}
-/*, tr#subscription_forums_category_155, tr#subscription_forums_category_464, tr#subscription_forums_category_356, tr#subscription_forums_category_1538, tr#subscription_forums_category_141, tr#subscription_forums_category_188*/
+
 .watch-table tr.watch-expanded, .watch-table tr.watch-collapsed {
 	background-color: #C8C8C8
 }
+.watch-table tr.watch-collapsed {
+	border-bottom: 5px solid white;
+}
 .watch-header a {
 	pointer-events: none;
 	color: black !important
 }
+
+#subscription_forums_category_425, #subscription_forums_category_399, #subscription_forums_category_136, #subscription_forums_category_139, #subscription_forums_category_144, #subscription_forums_category_180, #subscription_forums_category_137, #subscription_forums_category_304, #subscription_forums_category_315, #subscription_forums_category_142, #subscription_forums_category_181, #subscription_forums_category_276, #subscription_forums_category_356, #subscription_forums_category_455, #subscription_forums_category_469, #subscription_forums_category_459 {
+	/*display: none*/
+}
+#subscription_blogs_category_62, #subscription_blogs_category_60, #subscription_blogs_category_14, #subscription_blogs_category_1, #subscription_blogs_category_54, #subscription_blogs_category_17, #subscription_blogs_category_2, #subscription_blogs_category_35, #subscription_blogs_category_37, #subscription_blogs_category_75, #subscription_blogs_category_3, #subscription_blogs_category_18, #subscription_blogs_category_46, #subscription_blogs_category_41, #subscription_blogs_category_71, #subscription_blogs_category_65, #subscription_blogs_category_4, #subscription_blogs_category_56, #subscription_blogs_category_53, #subscription_blogs_category_48, #subscription_blogs_category_49, #subscription_blogs_category_50, #subscription_blogs_category_51, #subscription_blogs_category_52, #subscription_blogs_category_44, #subscription_blogs_category_43, #subscription_blogs_category_15, #subscription_blogs_category_55, #subscription_blogs_category_57, #subscription_blogs_category_73, #subscription_blogs_category_66, #subscription_blogs_category_8, #subscription_blogs_category_10, #subscription_blogs_category_13, #subscription_blogs_category_69, #subscription_blogs_category_12, #subscription_blogs_category_16, #subscription_blogs_category_19, #subscription_blogs_category_42, #subscription_blogs_category_79, #subscription_blogs_category_72, #subscription_blogs_category_68, #subscription_blogs_category_82  {
+	/*display: none*/
+}
+/* End Subscription Page Edits */
+
 .page_10025 #t1 {
 	float: left;
 	vertical-align: top;
@@ -8520,21 +8486,8 @@ ul.user_stats {
 .page_10025 .helpsearch {
 	margin: 20px 0
 }
-#subscription_forums_category_425, #subscription_forums_category_399, #subscription_forums_category_136, #subscription_forums_category_139, #subscription_forums_category_144, #subscription_forums_category_180, #subscription_forums_category_137, #subscription_forums_category_304, #subscription_forums_category_315, #subscription_forums_category_142, #subscription_forums_category_181, #subscription_forums_category_276, #subscription_forums_category_356, #subscription_forums_category_455, #subscription_forums_category_469, #subscription_forums_category_459 {
-	display: none
-}
-#subscription_blogs_category_62, #subscription_blogs_category_60, #subscription_blogs_category_14, #subscription_blogs_category_1, #subscription_blogs_category_54, #subscription_blogs_category_17, #subscription_blogs_category_2, #subscription_blogs_category_35, #subscription_blogs_category_37, #subscription_blogs_category_75, #subscription_blogs_category_3, #subscription_blogs_category_18, #subscription_blogs_category_46, #subscription_blogs_category_41, #subscription_blogs_category_71, #subscription_blogs_category_65, #subscription_blogs_category_4, #subscription_blogs_category_56, #subscription_blogs_category_53, #subscription_blogs_category_48, #subscription_blogs_category_49, #subscription_blogs_category_50, #subscription_blogs_category_51, #subscription_blogs_category_52, #subscription_blogs_category_44, #subscription_blogs_category_43, #subscription_blogs_category_15, #subscription_blogs_category_55, #subscription_blogs_category_57, #subscription_blogs_category_73, #subscription_blogs_category_66, #subscription_blogs_category_8, #subscription_blogs_category_10, #subscription_blogs_category_13, #subscription_blogs_category_69, #subscription_blogs_category_12, #subscription_blogs_category_16, #subscription_blogs_category_19, #subscription_blogs_category_42, #subscription_blogs_category_79, #subscription_blogs_category_72, #subscription_blogs_category_68, #subscription_blogs_category_82  {
-	display: none
-}
-/* End Subscription Page Edits */
-
 
 /* PROFILE UPDATES */
-
-/*.page_200 #main .module_container
-{
-	clear:none;
-}*/
 
 /* Badges */
 
