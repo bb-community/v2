@@ -8437,6 +8437,9 @@ ul.user_stats {
 }
 
 /* Subscription Pages */
+table.watch-table {
+     border-collapse: collapse;
+}
 .watch-table .watch-subcategory {
 	padding-left: 30px;
 	
