@@ -17,7 +17,7 @@
 
 #mainnav ul
 {
-	width:852px;
+	width:876px;
 	/*margin:0 auto;
 	*/
  /*padding:0 0 0 675px;
@@ -234,7 +234,7 @@ ul#dropdownmenu
 	padding-bottom:10px !important
 }
 
-#mainnav .mainnav-link-1 ul#dropdownmenu
+#mainnav .mainnav-link-2 ul#dropdownmenu
 {
     -webkit-column-count: 2;
     -moz-column-count: 2;
